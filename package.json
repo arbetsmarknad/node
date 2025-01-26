@@ -4,9 +4,13 @@
   },
   "devDependencies": {
     "@types/node": "^20",
+    "tsx": "^4.19.2",
     "typescript": "^5"
   },
   "name": "@arbetsmarknad/node",
-  "scripts": {},
+  "scripts": {
+    "build": "tsc",
+    "node": "tsx ./bin/node.ts"
+  },
   "version": "0.0.0"
 }
