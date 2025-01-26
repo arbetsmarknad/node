@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "commander": "^13.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "typescript": "^5"
+  },
+  "name": "@arbetsmarknad/node",
+  "scripts": {},
+  "version": "0.0.0"
+}
