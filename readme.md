@@ -1,7 +1,7 @@
-# starter
+# node
 
-Web starter project.
+Node starter project.
 
 ## License
 
-[MIT](https://github.com/arbetsmarknad/starter/blob/main/license)
+[MIT](https://github.com/arbetsmarknad/node/blob/main/license)
