@@ -6,14 +6,11 @@
     "isolatedModules": true,
     "module": "esnext",
     "moduleResolution": "node",
-    "paths": {
-      "@/*": ["./*"]
-    },
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strict": true,
     "target": "ES2024"
   },
   "exclude": ["node_modules"],
-  "include": ["bin/*.ts"]
+  "include": ["*.ts"]
 }

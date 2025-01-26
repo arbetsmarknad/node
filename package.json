@@ -1,4 +1,7 @@
 {
+  "bin": {
+    "node": "./bin.js"
+  },
   "dependencies": {
     "commander": "^13.1.0"
   },
@@ -8,10 +11,19 @@
     "typedoc": "^0.27.6",
     "typescript": "^5"
   },
+  "files": [
+    "bin.js",
+    "version.js"
+  ],
   "name": "@arbetsmarknad/node",
   "scripts": {
     "build": "tsc",
-    "node": "tsx ./bin/node.ts"
+    "node": "tsx ./bin.ts"
+  },
+  "typedocOptions": {
+    "entryPoints": [
+      "./version.ts"
+    ]
   },
   "version": "0.0.0"
 }
