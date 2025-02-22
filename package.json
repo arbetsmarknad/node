@@ -17,7 +17,7 @@
     "version.js"
   ],
   "homepage": "https://codeberg.org/arbetsmarknad/node",
-  "license": "CC-0",
+  "license": "CC0-1.0",
   "name": "@arbetsmarknad/node",
   "scripts": {
     "build": "tsc",
