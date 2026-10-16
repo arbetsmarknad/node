@@ -16,7 +16,7 @@
     "bin.js",
     "version.js"
   ],
-  "homepage": "https://codeberg.org/arbetsmarknad/node",
+  "homepage": "https://github.com/arbetsmarknad/node",
   "license": "CC0-1.0",
   "name": "@arbetsmarknad/node",
   "scripts": {
