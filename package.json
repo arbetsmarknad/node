@@ -16,9 +16,9 @@
     "bin.js",
     "version.js"
   ],
-  "homepage": "https://github.com/arbetsmarknad/node",
+  "homepage": "https://github.com/svenskamodellen/node",
   "license": "CC0-1.0",
-  "name": "@arbetsmarknad/node",
+  "name": "@svenskamodellen/node",
   "scripts": {
     "build": "tsc",
     "node": "tsx ./bin.ts"
